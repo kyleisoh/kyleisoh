@@ -4,7 +4,7 @@
 
 <h2 align="center"> Kyle InSeok Oh </h2>
 
-<div align="center">💻 SDE @ <a href="https://clear.co/"> Clearco </div>
-<div align="center">📚 CS @ <a href="https://web.cs.toronto.edu/"> University of Toronto </div>
-<div align="center">📍 Toronto, ON <sub> CA </sub> / Vancouver, BC <sub> CA </sub> / Seoul <sub> KR </sub> </div>
-<div align="center"> Previously, BA @ <a href="https://www.bcg.com/> BCG </div>
+<div align="center">💻 SDE @ <a href="https://clear.co/"> Clearco </a></div>
+<div align="center">📚 CS @ <a href="https://web.cs.toronto.edu/"> University of Toronto </a></div>
+<div align="center">📍 Toronto, ON <sub> CA </sub> / Vancouver, BC <sub> CA </sub> / Seoul <sub> KR </sub> </a></div>
+<div align="center"> 💼 Previously, BA @ <a href="https://www.bcg.com/"> BCG </a></div>
