@@ -1,7 +1,7 @@
 ## Hello! I am Kyle 👋
 
 [**Website**](https://kyleisoh.com/) - [**Email**](inohkr@gmail.com) - [**Linkedin**](https://www.linkedin.com/in/kyle-inseok-oh/)
-
+[![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyleisoh)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 * 📍 Toronto, ON <sub> CA </sub> / Vancouver, BC <sub> CA </sub> / Seoul <sub> KR </sub> 
