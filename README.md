@@ -1,9 +1,8 @@
-## Hello! I am Kyle 👋
+<p align="center"><a href="https://kyleisoh.com"><img width="80%" alt="Welcome to my Github." src="./assets/ko-readme-header.png" /></a></p>
 
-[**Website**](https://kyleisoh.com/) - [**Email**](inohkr@gmail.com) - [**Linkedin**](https://www.linkedin.com/in/kyle-inseok-oh/)
-[![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyleisoh)](https://github.com/anuraghazra/github-readme-stats)
----
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=kyleisoh&theme=algolia&show_icons=true" alt="Pirooz's Github Stats"></img>
 
-* 📍 Toronto, ON <sub> CA </sub> / Vancouver, BC <sub> CA </sub> / Seoul <sub> KR </sub> 
-* 📚 [University of Toronto](https://web.cs.toronto.edu/) CS (Class of 2023)
-* 💻 Software Engineer Intern [Clearco](https://clear.co/landing/for-founders/?utm_source=google&utm_medium=cpc&utm_campaign=2021_na_google_search_brand_clearco&gclid=CjwKCAiAgbiQBhAHEiwAuQ6BksaYpih1P-5BfdWPzdgNoXYvJPJN-0261BRB0q8g00f9GL1lcVlFBRoCxCgQAvD_BwE)
+<h2 align="center"> Kyle InSeok Oh </h2>
+
+<div align="center">💻 SDE @<a href="https://clear.co/"> Clearco </div>                                                       <div align="center">📚 CS @<a href="https://web.cs.toronto.edu/"> University of Toronto </div>
+<div align="center">📍 Toronto, ON <sub> CA </sub> / Vancouver, BC <sub> CA </sub> / Seoul <sub> KR </sub> <div>
