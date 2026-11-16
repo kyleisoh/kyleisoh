@@ -6,5 +6,5 @@
 
 <div align="center">💻 SDE @ <a href="https://amazon.ca/"> Amazon </a></div>
 <div align="center">📚 CS @ <a href="https://web.cs.toronto.edu/"> University of Toronto </a></div>
-<div align="center">📍 Toronto, ON <sub> CA </sub> / Vancouver, BC <sub> CA </sub> / Seoul <sub> KR </sub> </a></div>
+<div align="center">📍 <sub> Seattle, WA </sub> / <sub>Toronto, ON </sub>sub> / <sub> Vancouver, BC </sub> / Seoul <sub> KR </sub> </a></div>
 <div align="center"> 💼 Previously, BA @ <a href="https://www.bcg.com/"> BCG </a> and SDE @ <a href="https://clear.co/"> Clearco </a></div>
